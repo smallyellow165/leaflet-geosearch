@@ -100,7 +100,6 @@
   },
   "dependencies": {},
   "optionalDependencies": {
-    "leaflet": "^1.6.0"
   },
   "husky": {
     "hooks": {
